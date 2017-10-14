@@ -1,0 +1,8 @@
+com/wipro/domain/Place.class
+com/wipro/service/PlaceServiceImpl.class
+com/wipro/service/PlaceDbserviceImpl.class
+com/wipro/service/PlaceService.class
+com/wipro/repository/PlaceRepository.class
+com/wipro/SpringGoplacesApplication.class
+com/wipro/controller/GoplaceController.class
+com/wipro/interfaces/PlaceService.class
